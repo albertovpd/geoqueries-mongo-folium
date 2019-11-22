@@ -29,8 +29,8 @@ You are given a dataset with company names, number of offices, number of employe
 (Result without "perfect spot" shown in the beginning.)
 
 # Further improvements
-- Most important one:
-    - create the code in a .py file with pipelines (i performed some low-quality pipelines through jupyter notebook but,as far as I am concerned, it is not allowed to pipeline functions through jupyters.
+- Most interesting one (personally):
+    - create the code in a .py file with pipelines
 - Use of APIs:
     - Obtain the real incomes of all companies in €.
     - Large-scale my problem.
