@@ -26,6 +26,7 @@ You are given a dataset with company names, number of offices, number of employe
 ![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/dataframe.png "dataframe")
 
 ![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20without%20perfect%20spot.png "without perfect spot")
+(Result without "perfect spot" shown in the beginning.)
 
 # Further improvements
 - Most important one:
