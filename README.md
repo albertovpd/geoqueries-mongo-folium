@@ -30,7 +30,8 @@ You are given a dataset with company names, number of offices, number of employe
 
 # Further improvements
 - Most interesting one (personally):
-    - create the code in a .py file with pipelines
+    - create the code in a .py file with pipelines, like I did in this project:
+        https://github.com/albertovpd/pipelines-project
 - Use of APIs:
     - Obtain the real incomes of all companies in €.
     - Large-scale my problem.
