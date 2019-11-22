@@ -28,6 +28,8 @@ You are given a dataset with company names, number of offices, number of employe
 ![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20without%20perfect%20spot.png "without perfect spot")
 
 # Further improvements
+- Most important one:
+    - create the code in a .py file with pipelines (i performed some low-quality pipelines through jupyter notebook but,as far as I am concerned, it is not allowed to pipeline functions through jupyters.
 - Use of APIs:
     - Obtain the real incomes of all companies in €.
     - Large-scale my problem.
