@@ -1,6 +1,7 @@
 # geoqueries-mongo-folium
 
-Use Mongo, Scipy (Panads) and the Haversine equation to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
+Use Mongo, Scipy (Pandas) and the Haversine equation to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
+![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20image.png "final result")
 
 # Description of the task:
 
@@ -22,11 +23,15 @@ You are given a dataset with company names, number of offices, number of employe
 - Sort my dataset by the weight function.
 - With folium, centre the map in the top place, and also draw the other 5 more suitable in the world (taking into accout my data).
 
+![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/dataframe.png "dataframe")
+
 # Further improvements
 - Use of APIs:
-    -  To obtain the real incomes of all companies in €.
-    - large-scale my problem.
+    - Obtain the real incomes of all companies in €.
+    - Large-scale my problem.
         - Use several APIs to enrich my dataset with vegan restaurants and kindergartens.
-        - insert the new elements in my weight function.
-        - use the _init_ function to insert via terminal coordinates and get the closest place that accomplished all mentioned before.
+        - Insert the new elements in my weight function.
+        - Use the _init_ function to insert via terminal coordinates and get the closest place that accomplished all mentioned before.
+- The most interesting  one (personally):
+    - Once the closest loctaions are found, to find the middle point between all the desired places, and to find again the middle point of them, in order to get the coordinates of the center of all locations
 
