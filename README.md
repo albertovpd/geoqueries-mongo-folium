@@ -1,6 +1,6 @@
 # geoqueries-mongo-folium
 
-Use Mongo, Scipy (Pandas) and the Haversine equation to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
+Use Mongo, Scipy (Pandas), the Haversine equation and finding the middle points of geocoordinates to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
 ![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20image.png "final result")
 
 # Description of the task:
@@ -32,6 +32,3 @@ You are given a dataset with company names, number of offices, number of employe
         - Use several APIs to enrich my dataset with vegan restaurants and kindergartens.
         - Insert the new elements in my weight function.
         - Use the _init_ function to insert via terminal coordinates and get the closest place that accomplished all mentioned before.
-- The most interesting  one (personally):
-    - Once the closest loctaions are found, to find the middle point between all the desired places, and to find again the middle point of them, in order to get the coordinates of the center of all locations
-
