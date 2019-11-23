@@ -1,7 +1,7 @@
 # geoqueries-mongo-folium
 
-Use Mongo, Scipy (Pandas), the Haversine equation and finding the middle points of geocoordinates to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
-![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20image.png "final result")
+Use Mongo, Scipy (Pandas), the Haversine equation, get the middle points of geocoordinates, to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
+![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20with%20perfect%20spot.png "final result")
 
 # Description of the task:
 
@@ -25,7 +25,13 @@ You are given a dataset with company names, number of offices, number of employe
 
 ![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/dataframe.png "dataframe")
 
+![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20without%20perfect%20spot.png "without perfect spot")
+(Result without "perfect spot" shown in the beginning.)
+
 # Further improvements
+- Most interesting one (personally):
+    - create the code in a .py file with pipelines, like I did in this project:
+        https://github.com/albertovpd/pipelines-project
 - Use of APIs:
     - Obtain the real incomes of all companies in €.
     - Large-scale my problem.
