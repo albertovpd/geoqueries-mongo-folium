@@ -29,7 +29,8 @@ You are given a dataset with company names, number of offices, number of employe
 (Result without "perfect spot" shown in the beginning.)
 
 # Further improvements
-- Most interesting one (personally):
+- ASAP:
+    - The coding could be easily improved at some points. This is top priority.
     - create the code in a .py file with pipelines, like I did in this project:
         https://github.com/albertovpd/pipelines-project
 - Use of APIs:
