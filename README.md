@@ -1,5 +1,8 @@
 # geoqueries-mongo-folium
 
+
+    Readme currently under construction U_U
+
 Use Mongo, Scipy (Pandas), the Haversine equation, get the middle points of geocoordinates, to work with geoqueries and find the perfect location in the world for your new company, taking into account the preferences of workers.
 ![alt text](https://github.com/albertovpd/geoqueries-mongo-folium/blob/master/output/final%20with%20perfect%20spot.png "final result")
 
